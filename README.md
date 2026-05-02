@@ -1,4 +1,4 @@
-# Sound-Sensor-LED
+# An-Arduino-Sound-Sensor-LED
 
 LED arms on proximity and turns on when a clap or sound is detected.
 
