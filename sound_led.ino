@@ -1,4 +1,4 @@
-const int trigPin   = 9;
+const int trigPin   = 8;
 const int echoPin   = 10;
 const int ledPin    = 6;
 const int soundPin  = 7;
